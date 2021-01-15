@@ -1,4 +1,4 @@
-# Projekt Cetba 
+# Projekt Četba 
 ### Obchodní akademie, Vyšší odborná škola a Jazyková škola Uherské Hradiště
  
 Jedná se repozitář projekt do předmětu WEB na OAUH
