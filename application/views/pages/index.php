@@ -3,7 +3,7 @@
 		<h1>MATURITNÍ SEZNAM LITERÁRNÍCH DĚL</h1>
 		<br>		
 
-		<h2>Ukázka knih</h2>
+		<h2 style="text-align: center">Ukázka knih</h2>
 			<table class="table">				
 		  		<thead>
 				    <tr class="table">

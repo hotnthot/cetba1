@@ -1,5 +1,13 @@
-# Welcome to GitHub Desktop!
+# Projekt Cetba 
+### Obchodní akademie, Vyšší odborná škola a Jazyková škola Uherské Hradiště
+ 
+Jedná se repozitář projekt do předmětu WEB na OAUH
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+- [Michal Jurák](https://github.com/hotnthot)
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+### Odkaz na web:
+<p>
+    http://maturitnidatabaze.4fan.cz/
+</p>
+
+

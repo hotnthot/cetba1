@@ -55,7 +55,7 @@ class Cetba_controller extends CI_Controller {
 
 	}
 
-	  public function kniha($id)
+	public function kniha($id)
 	  {
 	  		$data['menu'] = $this->Cetba_model->get_menu_polozky();
 	    	$data['get_kniha'] = $this->Cetba_model->get_kniha($id);
@@ -64,4 +64,12 @@ class Cetba_controller extends CI_Controller {
 	    $this->load->view('pages/kniha', $data);
 	    $this->load->view('layout/footer');
 	  }
+
+	public function create_book(){
+		$data['menu'] = $this->Cetba_model->get_menu_polozky();
+		$this->load->view('layout/header');
+		$this->load->view('layout/navbar', $data);
+		$this->load->view('pages/create_book');
+		$this->load->view('layout/footer');
+	}
 }
